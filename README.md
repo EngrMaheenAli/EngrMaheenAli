@@ -9,19 +9,7 @@
 
 
 <h2 align="center">Assalam U Alaikum !,👋<br>I'm , <strong>Maheen Ali,</strong> <br>
- currently embarking on an exciting journey as I pursue a BS in Software Engineering. Alongside my academic endeavors, I work as an Operations Associate at GRG International, where I leverage my technical knowledge and managerial skills to ensure seamless and efficient operations. This role allows me to harmonize my academic insights with practical experience, driving innovation and success.
-
-🌟 Divine Insight | Web Application 🌟
-Developed by: Engr. Maheen Ali
-
-Introducing Divine Insight, an innovative web application designed to elevate your Qur'anic experience. This platform offers:
-
-Top 20 Qur'an Reciters: Immerse yourself in the finest recitations.
-134 Quran Translations & Tafaseer in 40 Languages: Gain profound insights and understanding across a wide array of languages.
-Hijri Calendar: Stay synchronized with Islamic dates seamlessly.
-Qibla Finder: Effortlessly locate the direction of prayer from anywhere in the world.
-With its extensive language coverage and detailed Tafaseer statistics, Divine Insight blends scholarly depth with practical tools to enhance your spiritual journey.
-
+currently pursuing a BS in Software Engineering while working as a Social Media Manager at Nexgen Solutions. In my role, I blend creativity with strategy to build strong online presences, aligning digital campaigns with business objectives. This work allows me to combine my technical skills with digital marketing expertise, driving growth and engagement.
 </h2>
 
 <br clear="both">
