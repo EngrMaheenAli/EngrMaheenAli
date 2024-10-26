@@ -102,20 +102,20 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   <a href="https://www.linkedin.com/in/EngrMaheenAli/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-<!--   <a href="https://wa.me/923032006225" target="_blank"> -->
+<!--   <a href="https://wa.me/923253542411" target="_blank"> -->
 <a href="https://whatsapp.com/channel/0029VaCr8pqDZ4LZ1Fo46N1d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:smarsalanshah125@gmail.com" target="_blank">
+  <a href="mailto:maheenasif494@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/SMArsalanShah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/EngrMaheenAliBukhari/" target="_blank">
+  <a href="https://www.facebook.com/maheen.asif.73700"target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/EngrMaheenAlibukhari/" target="_blank">
+  <a href="https://www.instagram.com/maheenasif53/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
 </div>
