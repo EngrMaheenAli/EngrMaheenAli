@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
 <!--   <a href="https://wa.me/923253542411" target="_blank"> -->
-<a href="https://whatsapp.com/channel/0029VaCr8pqDZ4LZ1Fo46N1d" target="_blank">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
   </a>
   <a href="mailto:maheenasif494@gmail.com" target="_blank">
