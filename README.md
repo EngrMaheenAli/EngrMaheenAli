@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/EngrMaheenAli/" target="_blank">
+  <a href="https://www.linkedin.com/in/maheen-asif-0bab7b295/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
 <!--   <a href="https://wa.me/923253542411" target="_blank"> -->
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
   <a href="mailto:maheenasif494@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/SMArsalanShah" target="_blank">
+  <a href="https://www.linkedin.com/in/maheen-asif-0bab7b295/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/maheen.asif.73700"target="_blank">
