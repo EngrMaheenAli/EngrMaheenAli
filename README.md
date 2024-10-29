@@ -8,8 +8,7 @@
 </div>
 
 
-<h2 align="center">Assalam U Alaikum !,👋<br>I'm , <strong>Maheen Ali,</strong> <br>
-currently pursuing a BS in Software Engineering while working as a Social Media Manager at Nexgen Solutions. In my role, I blend creativity with strategy to build strong online presences, aligning digital campaigns with business objectives. This work allows me to combine my technical skills with digital marketing expertise, driving growth and engagement.
+<h2 align="center">Assalam U Alaikum! 👋<br>I'm <strong>Maheen Ali,</strong> <br> currently pursuing a BS in Software Engineering while working as an Operations Associate Manager at Nexgen Solutions. In this role, I apply analytical skills to optimize processes, improve efficiency, and contribute to effective team operations. Balancing technical insights with management skills allows me to create strategic solutions that support organizational goals and streamline workflows.
 </h2>
 
 <br clear="both">
