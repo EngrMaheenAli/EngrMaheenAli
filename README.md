@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/EngrMaheenAli/EngrMaheenAli/blob/main/images/maheenali.png)
+![MasterHead](https://github.com/EngrMaheenAli/EngrMaheenAli/blob/main/images/maheenali)
 
 
 <br clear="both">
