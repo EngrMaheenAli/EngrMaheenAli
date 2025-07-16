@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center">Assalam U Alaikum! 👋<br>I'm <strong>Maheen Ali,</strong> <br> currently pursuing a BS in Software Engineering while working as an Operations Associate  at Nexgen Solutions. In this role, I apply analytical skills to optimize processes, improve efficiency, and contribute to effective team operations. Balancing technical insights with management skills allows me to create strategic solutions that support organizational goals and streamline workflows.
+<h2 align="center">Assalam U Alaikum! 👋<br>I'm <strong>Maheen Ali,</strong> <br> currently pursuing a BS in Software Engineering while working as an Operations Associate  at Nexgen IT Solutions. In this role, I apply analytical skills to optimize processes, improve efficiency, and contribute to effective team operations. Balancing technical insights with management skills allows me to create strategic solutions that support organizational goals and streamline workflows.
 </h2>
 
 <br clear="both">
